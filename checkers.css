@@ -1,0 +1,221 @@
+body{
+	width: 100%
+	overflow: auto;
+}
+
+.deck {
+	box-sizing: border-box;
+	padding: 40px;
+	width: 640px;
+	height: 640px;
+	border: solid 2px black;
+	font-size: 0;
+}
+
+.line {
+	display: inline-block;
+	box-sizing: border-box;
+	width: 560px;
+	height: 70px;
+}
+
+.line div {
+	display: inline-block;
+	box-sizing: border-box;
+	width: 70px;
+	height: 70px;
+	border: solid 1px black;
+	font-size: 1px;
+
+}
+
+.black {
+	position: relative;
+	background-color: #34373d;
+}
+
+.red {
+	width: 55px;
+	height: 55px;
+	background-color: #bc1c47;
+	border-radius: 50%;
+	position: absolute;
+}
+
+.whit {
+	width: 55px;
+	height: 55px;
+	background-color: #edf2f0;
+	border-radius: 50%;
+	position: absolute;
+}
+
+.red1 {
+	position: absolute;
+	margin-top: -62px;
+	margin-left: 8px;
+}
+
+.red2 {
+	position: absolute;
+	margin-top: -62px;
+	margin-left: 148px;
+}
+
+.red3 {
+	position: absolute;
+	margin-top: -62px;
+	margin-left: 288px;
+}
+
+.red4 {
+	position: absolute;
+	margin-top: -62px;
+	margin-left: 428px;
+}
+
+.red5 {
+	position: absolute;
+	margin-top: -202px;
+	margin-left: 8px;
+}
+
+.red6 {
+	position: absolute;
+	margin-top: -202px;
+	margin-left: 148px;
+}
+
+.red7 {
+	position: absolute;
+	margin-top: -202px;
+	margin-left: 288px;
+}
+
+.red8 {
+	position: absolute;
+	margin-top: -202px;
+	margin-left: 428px;
+}
+
+.red9 {
+	position: absolute;
+	margin-top: -132px;
+	margin-left: 78px;
+}
+
+.red10 {
+	position: absolute;
+	margin-top: -132px;
+	margin-left: 218px;
+}
+
+.red11 {
+	position: absolute;
+	margin-top: -132px;
+	margin-left: 358px;
+}
+
+.red12 {
+	position: absolute;
+	margin-top: -132px;
+	margin-left: 498px;
+}
+
+.whit1 {
+	position: absolute;
+	margin-top: -554px;
+	margin-left: 78px;
+}
+
+.whit2 {
+	position: absolute;
+	margin-top: -554px;
+	margin-left: 218px;
+}
+
+.whit3 {
+	position: absolute;
+	margin-top: -554px;
+	margin-left: 358px;
+}
+
+.whit4 {
+	position: absolute;
+	margin-top: -554px;
+	margin-left: 498px;
+}
+
+.whit5 {
+	position: absolute;
+	margin-top: -484px;
+	margin-left: 8px;
+}
+
+.whit6 {
+	position: absolute;
+	margin-top: -484px;
+	margin-left: 148px;
+}
+
+.whit7 {
+	position: absolute;
+	margin-top: -484px;
+	margin-left: 288px;
+}
+
+.whit8 {
+	position: absolute;
+	margin-top: -484px;
+	margin-left: 428px;
+}
+
+.whit9 {
+	position: absolute;
+	margin-top: -414px;
+	margin-left: 78px;
+}
+
+.whit10 {
+	position: absolute;
+	margin-top: -414px;
+	margin-left: 218px;
+}
+
+.whit11 {
+	position: absolute;
+	margin-top: -414px;
+	margin-left: 358px;
+}
+
+.whit12 {
+	position: absolute;
+	margin-top: -414px;
+	margin-left: 498px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
